@@ -1,9 +1,7 @@
-function functionName(){
-	alert(arguments.calle.name);
+function functionName() {
+	alert("functionName");
 }
 
-function AccioJob(){
-	alert(arguments.calle.name);
+function AccioJob() {
+	alert("AccioJob");
 }
-functionName();
-AccioJob();
